@@ -1,0 +1,53 @@
+# Virtual Environment
+myenv/
+
+# Large Model Directories
+sdoh_t5_model/
+sdoh_results/
+# Dataset and Large Files
+content/
+*.h5
+
+# macOS System Files
+.DS_Store
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Output Directories
+output/
+output1/
+
+# Miscellaneous
+get-pip.py
+
+tmp.ipynb
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# SSH Keys
+SSHH__keys
+SSHH__keys.pub
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+".gitignore" 26L, 400B
