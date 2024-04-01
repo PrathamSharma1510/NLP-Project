@@ -1,6 +1,8 @@
 # Virtual Environment
 myenv/
 
+# Temporary files for debugging
+ignore/
 # Large Model Directories
 sdoh_t5_model/
 sdoh_results/
