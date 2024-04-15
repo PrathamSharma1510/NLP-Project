@@ -22,8 +22,9 @@ output1/
 
 # Miscellaneous
 get-pip.py
-
+gpt_api.txt
 tmp.ipynb
+temporary.ipynb
 
 # General
 .DS_Store
